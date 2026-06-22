@@ -39,7 +39,7 @@ Points to consider to reduce malware identify laboratory:
 - set cores as 2, 4, 6 or 8. Never 1, 3, 5 or 7
 - do not install guests tools
 
-# Basic knowledge
+# Basic knowledge about Threats
 
 Core trilogy
 - Vulnerability
@@ -58,8 +58,8 @@ Main types of vulnerabilities
 - Injection flaws
 
 CIA Triad
-- Confidentiality
-- Integrity
+- Confidentiality: permission
+- Integrity: change
 - Availability
 
 Flow
@@ -72,4 +72,12 @@ Flow
 Reference
 - MITTRE ATT&CK(r): knowledge base public and global with tacticts, behaviors and techniques in use by cybercriminals in real world during attack.
 
+# Basic about virus
+
+Virus detection types
+- Signature: hash. Not good for modern viruses that are mutant then no hash can be compared. Catch known viruses.
+- Heuristic: features before execution. Can lead to false positives when a official software is trying to changea system configuration file to be installed and run. Catch unknown viruses.
+- Behavior: when running. Good for advanced ransomware and use of own system tools for attack.
+
+Modern antiviruses products are known as EDR (Endpoint Detection and Response)
 
