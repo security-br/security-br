@@ -57,18 +57,19 @@ Main types of vulnerabilities
 - Misconfigurations
 - Injection flaws
 
-CIA Tria
+CIA Triad
 - Confidentiality
 - Integrity
 - Availability
 
+Flow
 - CWE: root cause
 - CVE: identify
 - CVSS: severity
 - EPSS: probability
 - KVE: vulnerabilities confirmed as in effective real world exploration
 
-
+Reference
 - MITTRE ATT&CK(r): knowledge base public and global with tacticts, behaviors and techniques in use by cybercriminals in real world during attack.
 
 
