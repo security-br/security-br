@@ -63,14 +63,22 @@ CIA Triad
 - Availability
 
 Flow
-- CWE: root cause
-- CVE: identify
+- [CWE(tm) (Common Weakness Enumeration)](https://cwe.mitre.org/data/definitions/306): root cause
+- [CVE (Common Vulnerability Scoring System)](https://www.cve.org/CVERecord?id=CVE-2026-35273): identify
 - CVSS: severity
-- EPSS: probability
-- KVE: vulnerabilities confirmed as in effective real world exploration
+  - Low: 0.1 - 3.9
+  - Medium: 4 - 6.9
+  - High: 7 - 8.9
+  - Critical: 9 - 10
+- [EPSS](https://epsslookuptool.com/): probability
+- [KVE](https://www.cisa.gov/known-exploited-vulnerabilities-catalog): vulnerabilities confirmed as in effective real world exploration
+
+More terms
+- [SSVC](https://www.cisa.gov/stakeholder-specific-vulnerability-categorization-ssvc): impact on singular system
+- PURL (Package URL)
 
 Reference
-- MITTRE ATT&CK(r): knowledge base public and global with tacticts, behaviors and techniques in use by cybercriminals in real world during attack.
+- [MITTRE ATT&CK(r)](https://attack.mitre.org): knowledge base public and global with tacticts, behaviors and techniques in use by cybercriminals in real world during attack.
 
 # Basic about virus
 
@@ -79,5 +87,5 @@ Virus detection types
 - Heuristic: features before execution. Can lead to false positives when a official software is trying to changea system configuration file to be installed and run. Catch unknown viruses.
 - Behavior: when running. Good for advanced ransomware and use of own system tools for attack.
 
-Modern antiviruses products are known as EDR (Endpoint Detection and Response)
+Modern antiviruses products are known as EDR (Endpoint Detection and Response) and apply these 3 types of virus detection above, known as a defence in layers.
 
