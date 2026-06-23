@@ -173,4 +173,10 @@ Modern antiviruses products are known as EDR (Endpoint Detection and Response) a
 * https://bazaar.abuse.ch/
 https://malshare.com/
 
+BASIC certifications
+* CompTIA Security+, 
+* Certified AppSec Practitioner (CAP)
+*/certificações de segurança em nuvem (AWS/Azure Security).
+
+
 * https://vx-underground.org/
