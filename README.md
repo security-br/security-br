@@ -178,5 +178,8 @@ BASIC certifications
 * Certified AppSec Practitioner (CAP)
 */certificações de segurança em nuvem (AWS/Azure Security).
 
+* CSSLP (Certified Secure Software Lifecycle Professional) da ISC2 — Perfeita para quem vem do mundo de desenvolvimento/QA.
+* CEH (Certified Ethical Hacker) ou CompTIA Security+ — Para comprovar os fundamentos gerais de segurança.
+* AWS Certified Security - Specialty ou Azure Security Engineer — Essenciais se a multinacional onde você quer entrar usar nuvem.
 
 * https://vx-underground.org/
