@@ -169,5 +169,8 @@ Virus detection types
 Modern antiviruses products are known as EDR (Endpoint Detection and Response) and apply these 3 types of virus detection above, known as a defence in layers.
 
 ## Sites to download real malwares
-* The Zoo
-* Malware
+* The Zoo https://github.com/ytisf/theZoo
+* https://bazaar.abuse.ch/
+https://malshare.com/
+
+* https://vx-underground.org/
